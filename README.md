@@ -28,8 +28,7 @@ The focus is on producing **business-ready insights**, optimizing decision-makin
 ---
 
 ## 🔹 Project Files
-- **SalesData.xlsx** → Full dataset + analysis-ready table  
-- You can upload directly to GitHub.
+- SalesData.xlsx → Full dataset + analysis-ready table 
 
 ---
 
